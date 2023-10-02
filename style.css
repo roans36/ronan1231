@@ -14,10 +14,13 @@ header{
  background-color: #1E293B;
  display: flex;
  align-items: baseline;
- padding: 10px 20px;
+ padding: 0px 20px;
  justify-content: space-between;
 }
 a{
+  font-weight: bold;
+  margin: 0px;
+font-size: 18px;
 text-decoration: none;
 padding: 0 10px;
 color: white;
@@ -56,7 +59,7 @@ outline: none;
 border: none;
 }
 img{
-  height: 280px;
+  height: 250px;
   border-radius: 20px;
 width: 500px;
 }
